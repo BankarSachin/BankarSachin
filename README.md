@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there I am Sachin Bankar👋
+I'm a programming enthusiast from India who loves to write code and build cool projects. I have a passion for programming languages, new skills.I'm always looking for ways to improve my skills.
 
+- 🔭 I’m currently working on ...
 <!--
 **BankarSachin/BankarSachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
